@@ -87,42 +87,42 @@ body {
   text-align: center;
 }
 @media only screen and (min-width: 992px) {
-  .col-lg-6 {
+  .col-md-6 {
     background-color: violet;
     border: 2px solid black;
     border-radius: 8px;
     padding: 5px;
     text-align: center;
   }
-  .col-lg-2 {
+  .col-md-2 {
     background-color: violet;
     border: 2px solid black;
     border-radius: 8px;
     padding: 5px;
     text-align: center;
   }
-  .col-lg-4 {
+  .col-md-4 {
     background-color: violet;
     border: 2px solid black;
     border-radius: 8px;
     padding: 5px;
     text-align: center;
   }
-  .col-lg-8 {
+  .col-md-8 {
     background-color: violet;
     border: 2px solid black;
     border-radius: 8px;
     padding: 5px;
     text-align: center;
   }
-  .col-lg-10 {
+  .col-md-10 {
     background-color: violet;
     border: 2px solid black;
     border-radius: 8px;
     padding: 5px;
     text-align: center;
   }
-  .col-lg-12 {
+  .col-md-12 {
     background-color: violet;
     border: 2px solid black;
     border-radius: 8px;
